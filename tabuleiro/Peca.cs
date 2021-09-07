@@ -20,5 +20,7 @@
         {
             QteMovimentos++;
         }
+
+        public abstract bool[,] MovimentosPossiveis();        
     }
 }
